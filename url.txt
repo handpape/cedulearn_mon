@@ -1,0 +1,5 @@
+ctp,https://apix.cedulearn.com:1323/
+cedulearn_backend,https://api.cedulearn.com/main/home
+cedulearndev_backend,https://next.cedulearn.com:3100/main/home
+cedulearndev_front,https://next.cedulearn.com/
+cedulearn_front,https://cedulearn.com/
